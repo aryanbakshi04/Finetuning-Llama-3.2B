@@ -1,4 +1,4 @@
-# 🦙 Finetuning LLaMA 3.2B Instruct with Unsloth
+# Finetuning LLaMA 3.2B Instruct with Unsloth
 
 This project demonstrates how to fine-tune the **LLaMA 3.2B Instruct** model using the **Unsloth** framework and **QLoRA** for memory-efficient adaptation. The training data is sourced from the [FineTome-100k](https://huggingface.co/datasets/mlabonne/FineTome-100k) dataset, formatted in ShareGPT style.
 
